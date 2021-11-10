@@ -1,7 +1,7 @@
 # TallerLab03
 Lista Clases Identificadas:
 
-Clase: Empresa Transportiste
+Clase: Empresa Transportista
 Parámetros: (String) Nombre comercial - (String) Dirección
 
 Clase: Sucursal
