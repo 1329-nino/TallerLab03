@@ -15,3 +15,6 @@ Parámetros: (int) Código - (String) Descripción
 
 Clase: Producto
 Parámetro: (int) Código - (String) Tipo de producto
+
+Clase: Main
+Método: Iniciador
