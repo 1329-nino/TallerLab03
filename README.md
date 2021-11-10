@@ -1,17 +1,5 @@
 # TallerLab03
-Lista Clases Identificadas:
 
-Clase: Empresa Transportista
-Parámetros: (String) Nombre comercial - (String) Dirección
+![img.png](img.png)
 
-Clase: Sucursal
-Parámetros: (int) Código - (String) Región
-
-Clase: Camión
-Parámetros (int) Código - (int) Patente - (String) Patente - (boolean) Estado
-
-Clase: Flete
-Parámetros: (int) Código - (String) Descripción
-
-Clase: Producto
-Parámetro: (int) Código - (String) Tipo de producto
+[TallerLab03.zip](https://github.com/1329-nino/TallerLab03/files/7512881/TallerLab03.zip)
